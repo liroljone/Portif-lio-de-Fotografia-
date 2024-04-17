@@ -24,7 +24,7 @@ O projeto consiste em dois arquivos principais:
 Para utilizar este projeto, basta clonar ou baixar o repositório e abrir o arquivo `index.html` em um navegador da web.
 
 ```bash
-git clone https://github.com/seu_usuario/gridpics.git
+
 ```
 
 ## Tecnologias Utilizadas
@@ -34,7 +34,7 @@ git clone https://github.com/seu_usuario/gridpics.git
 
 ## Autor
 
-Este projeto foi desenvolvido por [João Vitor Almeida Lira](https://github.com/seu_usuario).
+Este projeto foi desenvolvido por [João Vitor Almeida Lira]
 
 ## Licença
 
